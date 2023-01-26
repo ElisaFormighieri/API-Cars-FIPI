@@ -2,13 +2,16 @@
 
 ## Page Login
 
-![image](https://user-images.githubusercontent.com/69126878/214720663-b0c30a05-ed4f-49b7-905c-a013f38cba6f.png)
+![image](https://user-images.githubusercontent.com/69126878/214904347-f9972f46-d24a-43a6-941b-473386941ab6.png)
 
 ## Page Home 
 
-![image](https://user-images.githubusercontent.com/69126878/214720615-99ecd4c2-4314-44db-af3b-6daa53b0ec32.png)
+![image](https://user-images.githubusercontent.com/69126878/214905054-f854643f-204b-4abc-ad7b-c31b8c8c1341.png)
 
 ## Functionality to look up the value of any vehicle through the FIPE table
+
+https://user-images.githubusercontent.com/69126878/214906686-6db68ef5-e23e-46ee-a545-64bd4696aca7.mp4
+
 
 # Getting Started with Create React App
 
